@@ -1,6 +1,6 @@
 # Progress Steps
 
-![cover](./assets/progress.gif)
+![cover](./progress.gif)
 
 ## 🦉 Main information
 
